@@ -83,7 +83,9 @@ The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 va
 * "fBodyBodyAccJerkMag-std()"
 * "fBodyBodyGyroMag-mean()"
 * "fBodyBodyGyroMag-std()"
-v"fBodyBodyGyroJerkMag-mean()"
+* "fBodyBodyGyroJerkMag-mean()"
 * "fBodyBodyGyroJerkMag-std()"
-variable units
-Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.
+### variable units
+* Activity variable is factor type. 
+* Subject variable is integer type. 
+* All the other variables are numeric type.
